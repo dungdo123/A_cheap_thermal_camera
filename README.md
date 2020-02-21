@@ -1,7 +1,7 @@
 # A_cheap_thermal_camera
 build a simple thermal camera based on rasperry and AMG8833 sensor
 Requirements:
- - Hardware: Raspberry pi 3, Grideye AMG88xx sparkun
+ - Hardware: Raspberry pi 3, Grideye AMG88xx sparkun(I2C communication)
  - Run on Raspbian, python3
  - library: pygame, colour, Adafruit_AMG88xx, scipy
 Results:
